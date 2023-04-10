@@ -21,7 +21,7 @@ app.post("/", function(req, res) {
   const email = req.body.email;
 
   client.setConfig({
-    apiKey: "32b052baa7c859155d34df8ae53577f1-us8",
+    apiKey: "26f83ce0b8fd15e2bfac8b4f7445483d-us8",
     server: "us8",
   });
 
@@ -91,10 +91,3 @@ app.listen(3000, function() {
   // })
   // request.write(jsonData);
   // request.end();
-
-//
-// apikey
-// 32b052baa7c859155d34df8ae53577f1-us8
-
-// list id
-// bea9012d63
