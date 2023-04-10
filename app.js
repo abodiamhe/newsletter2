@@ -25,7 +25,7 @@ app.post("/", function(req, res) {
     server: "us8",
   });
 
-  const list_id = "2bea9012d63";
+  const list_id = "bea9012d63";
 
   const run = async () => {
     const response = await client.lists.batchListMembers(list_id, {
