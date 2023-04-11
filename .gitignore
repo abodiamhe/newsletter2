@@ -1,6 +1,6 @@
 /node_modules
 .env
-
+apiKey: "7f41778ab649b6c0604d66bd8bae2394-us8"
 
 ## User settings
 xcuserdata/

@@ -21,7 +21,7 @@ app.post("/", function(req, res) {
   const email = req.body.email;
 
   client.setConfig({
-    apiKey: "4374b107953c2432b626e0a619a7cd02-us8",
+    apiKey: "7f41778ab649b6c0604d66bd8bae2394-us8",
     server: "us8",
   });
 
